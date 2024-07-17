@@ -1,0 +1,13 @@
+These font files where modified by adding modified characters.
+The modifications where performed by Benjamin Preisig.
+The Unicode of the added characters are:
+
+E4F7
+E4F8
+E466
+E467
+01E4
+01E5
+01DD
+0259
+018F
